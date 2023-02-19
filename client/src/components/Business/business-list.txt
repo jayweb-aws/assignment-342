@@ -1,0 +1,8 @@
+<div class="BusinessList">
+  <!-- Add Business Component here --> 
+  <!-- Add Business Component here -->
+  <!-- Add Business Component here -->
+  <!-- Add Business Component here -->
+  <!-- Add Business Component here -->
+  <!-- Add Business Component here -->
+</div>
